@@ -1,0 +1,21 @@
+Team Name, Abbreviation
+Alavés, ATH
+Athletic Club, AHT
+Atlético de Madrid, ATM
+Barcelona, FCB
+Celta de Vigo, CEV
+Espanyol, ESP
+Getafe, GET
+Girona, GIR
+Las Palmas, LPA
+Leganés, LEG
+Mallorca, MLL
+Osasuna, OSA
+Rayo Vallecano, RAY
+Real Betis, BET
+Real Madrid, RMD
+Real Sociedad, RSO
+Real Valladolid, VAD
+Sevilla, SEV
+Valencia CF, VAL
+Villarreal, VIL

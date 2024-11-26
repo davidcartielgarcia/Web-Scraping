@@ -1,0 +1,6 @@
+26.11.2024 10:20:49 : Preliminaries complete. Initiating ETL process
+26.11.2024 10:20:49 : Data extraction complete. Initiating Transformation process
+26.11.2024 10:20:49 : Abbreviation teams from CSV done
+26.11.2024 10:20:49 : Setting fixture attribute done
+26.11.2024 10:20:49 : Creation of the calendar to be exported done
+26.11.2024 10:20:49 : CSV with name calendar_LaLiga.csv exported
